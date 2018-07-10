@@ -1,5 +1,5 @@
 # kdd-convolutional
-Knowledge discovery process for prediction of severity in subjects suffering from sleep breathing disorders.
+Knowledge discovery process for prediction of severity in subjects suffering from sleep breathing disorders.Read it [here](https://github.com/chrisPiemonte/kdd-convolutional/wiki)
 
 ### Linux:
 1. Install [miniconda](https://conda.io/miniconda.html) or [anaconda](https://www.anaconda.com/download/)
