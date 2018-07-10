@@ -1,0 +1,18 @@
+################################################################
+#
+# If you are using Anaconda then you can install all required
+# Python packages by running the following commands in a shell:
+#
+#    conda create --name srbd-anaconda python=3.5.4
+#    source activate srbd-anaconda
+#    pip install -r requirements.txt
+#
+#
+
+numpy
+scipy
+pandas
+jupyterlab
+tensorflow
+matplotlib
+scikit-learn
