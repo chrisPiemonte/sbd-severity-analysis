@@ -1,15 +1,15 @@
-﻿# kdd-convolutional
-Sviluppo di un workflow di data analysis in Anaconda per la previsione della severità in soggetti affetti da disturbi respiratori del sonno.
+# kdd-convolutional
+Knowledge discovery process for prediction of severity in subjects suffering from sleep breathing disorders.
 
 ### Linux:
-1. Installare [miniconda](https://conda.io/miniconda.html) o [anaconda](https://www.anaconda.com/download/)
+1. Install [miniconda](https://conda.io/miniconda.html) or [anaconda](https://www.anaconda.com/download/)
 
-2. Clonare il repository:<pre>git clone https://github.com/cmencar/srbd-anaconda.git </pre> <pre>cd srbd-anaconda/</pre>
+2. Clone the repo:<pre>git clone https://github.com/chrisPiemonte/kdd-convolutional.git </pre> <pre>cd kdd-convolutional/</pre>
 
-3. Creare l'environment:<pre>conda create --name srbd-anaconda python=3.5.4</pre>
+3. Create the environment:<pre>conda create --name kdd-convolutional python=3.5.4</pre>
 
-4. Attivare l'environment:<pre>source activate srbd-anaconda</pre>
+4. Activate the environment:<pre>source activate kdd-convolutional</pre>
 
-5. Installare le dipendenze:<pre>pip install -r requirements.txt</pre>
+5. Install requirements:<pre>pip install -r requirements.txt</pre>
 
-6. Lanciare jupyter:<pre>jupyter lab</pre>
+6. Run jupyter:<pre>jupyter lab</pre>
