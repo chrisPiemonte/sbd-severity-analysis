@@ -6,9 +6,9 @@ Knowledge discovery process for prediction of severity in subjects suffering fro
 
 2. Clone the repo:<pre>git clone https://github.com/chrisPiemonte/sbd-severity-analysis.git </pre> <pre>cd sbd-severity-analysis/</pre>
 
-3. Create the environment:<pre>conda create --name kdd-convolutional python=3.5.4</pre>
+3. Create the environment:<pre>conda create --name sbd-severity-analysis python=3.5.4</pre>
 
-4. Activate the environment:<pre>source activate kdd-convolutional</pre>
+4. Activate the environment:<pre>source activate sbd-severity-analysis</pre>
 
 5. Install requirements:<pre>pip install -r requirements.txt</pre>
 
